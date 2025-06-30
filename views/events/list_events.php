@@ -22,3 +22,4 @@ $events = $controller->listEvents();
 </table>
 
 <?php include '../layout/footer.php';?>
+

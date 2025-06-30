@@ -37,3 +37,4 @@ $events = $eventCtrl->listEvents();
 <?php endif; ?>
 
 <?php include '../layout/footer.php';?>
+

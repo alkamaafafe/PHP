@@ -24,3 +24,4 @@ $inscriptions = $controller->listInscriptions();
 </table>
 
 <?php include '../layout/footer.php';?>
+
